@@ -1,0 +1,7 @@
+{
+  "name": "AutoMap",
+  "description": "An intelligent ride-hailing application that uses a satellite map view to connect users with nearby auto drivers. Features AI-powered trip suggestions and information powered by Google Search and Maps grounding through the Gemini API.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
